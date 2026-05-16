@@ -1,4 +1,4 @@
-# 
+# ultimate bybit trading bot | trailing-stop + position-sizing offers the most advanced bybit trading bot, with trailing-stop and position-sizing. Ideal for professional traders and
 
 
 
